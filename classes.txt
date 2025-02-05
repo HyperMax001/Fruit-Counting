@@ -1,0 +1,3 @@
+purple fruit = class 2 
+yellow fruit = class 1
+plant = class 3
